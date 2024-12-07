@@ -13,3 +13,6 @@ Um aplicativo interativo desenvolvido em Flutter com funcionalidades como cálcu
 1. Abra o FlutterLab ([link](https://flutlab.io)).
 2. Faça upload dos arquivos do projeto.
 3. Clique em "Run" para executar o aplicativo.
+
+4. #Equipe de desnvolvimento#
+5. Sarah Aparecida Campos Silva
